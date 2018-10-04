@@ -1,0 +1,958 @@
+# Copyright (C) 2016 Array
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Lenscap 1.0.9\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2016-11-01 23:21:03+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.2\n"
+
+#: 404.php:14
+msgid "Page Not Found"
+msgstr ""
+
+#: 404.php:18
+msgid ""
+"It looks like nothing was found at this location. Please use the search box "
+"or the sitemap to locate the content you were looking for."
+msgstr ""
+
+#: 404.php:23
+msgid "Sitemap"
+msgstr ""
+
+#: archive-jetpack-testimonial.php:23
+msgid "Testimonials"
+msgstr ""
+
+#: comments.php:38
+msgid "Leave a comment"
+msgstr ""
+
+#: comments.php:56
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:57
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:58
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:27 footer.php:43 inc/customizer.php:237
+msgid "Browse Categories"
+msgstr ""
+
+#: functions.php:78
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:79
+msgid "Social Icon Menu"
+msgstr ""
+
+#: functions.php:80 inc/customizer.php:220
+msgid "Footer Category Menu"
+msgstr ""
+
+#: functions.php:81
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:163 template-parts/content.php:95
+msgid "Read More"
+msgstr ""
+
+#: functions.php:198
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:200
+msgid "Widgets added here will appear on the sidebar of posts and pages."
+msgstr ""
+
+#: functions.php:208
+msgid "Footer - Column 1"
+msgstr ""
+
+#: functions.php:210
+msgid "Widgets added here will appear in the left column of the footer."
+msgstr ""
+
+#: functions.php:218
+msgid "Footer - Column 2"
+msgstr ""
+
+#: functions.php:220
+msgid "Widgets added here will appear in the center column of the footer."
+msgstr ""
+
+#: functions.php:228
+msgid "Footer - Column 3"
+msgstr ""
+
+#: functions.php:230 functions.php:240
+msgid "Widgets added here will appear in the right column of the footer."
+msgstr ""
+
+#: functions.php:238
+msgid "Footer - Column 4"
+msgstr ""
+
+#: functions.php:383 searchform.php:11
+msgid "Search for:"
+msgstr ""
+
+#: functions.php:385 searchform.php:13
+msgid "Search here..."
+msgstr ""
+
+#: functions.php:397
+msgid "Entire Site"
+msgstr ""
+
+#: functions.php:412 header.php:54 searchform.php:16
+msgid "Search"
+msgstr ""
+
+#: functions.php:643
+msgid "View all posts in %s"
+msgstr ""
+
+#: header.php:58 header.php:69 template-parts/content-index-media.php:53
+msgid "Close"
+msgstr ""
+
+#: header.php:65
+msgid "Menu"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:206
+msgid ""
+"There seems to be a temporary problem retrieving the latest updates for "
+"this theme. You can always view the latest updates in your Array account "
+"dashboard."
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:236
+msgid "Getting started with %1$s"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:238
+msgid "You will find everything you need to get started with Lenscap below."
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:244
+msgid "Help File"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:245
+msgid "Plugins"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:246
+msgid "FAQ &amp; Support"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:247
+msgid "Latest Updates"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:248
+msgid "Get More Themes"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:272
+msgid ""
+"This help file feed seems to be temporarily down. You can always view the "
+"help file on Array in the meantime."
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:272
+msgid "Help File &rarr;"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:282
+msgid "Recommended Plugins"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:284
+msgid ""
+"Below is a list of recommended plugins to install that will help you get "
+"the most out of Lenscap. Although each plugin is optional, some may be "
+"required to achieve a look similiar to the theme demo. See your help file "
+"for details."
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:288
+msgid "Jetpack"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:290
+msgid "Install Array toolkit"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:290
+#: inc/admin/updater/theme-updater-admin.php:302
+#: inc/admin/updater/theme-updater-admin.php:314
+#: inc/admin/updater/theme-updater-admin.php:326
+#: inc/admin/updater/theme-updater-admin.php:338
+msgid "Install Now"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:292
+#: inc/admin/updater/theme-updater-admin.php:304
+#: inc/admin/updater/theme-updater-admin.php:316
+#: inc/admin/updater/theme-updater-admin.php:328
+#: inc/admin/updater/theme-updater-admin.php:340
+msgid "Installed"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:296
+msgid ""
+"Jetpack is a free plugin that adds support for more gallery styles, contact "
+"forms, extra widgets and more. Once installed, visit Jetpack > Settings to "
+"choose which features you would like to enable. For the best performance, "
+"we recommend deactivating all Jetpack features by default and only "
+"activating the ones you want."
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:300
+msgid "Featured Image Caption"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:302
+msgid "Install Featured Image Caption"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:308
+msgid ""
+"Set a caption for the featured image of a post that can be displayed on "
+"your site. Once installed, there will be a Featured Image Caption box above "
+"the Featured Image box in the post editor. Text added here will be shown "
+"below the image on single post pages."
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:312
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:314
+msgid "Install MailChimp for WordPress"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:320
+msgid ""
+"MailChimp for WordPress helps you add more subscribers to your MailChimp "
+"lists using various methods. Lenscap supports this plugin in any of the "
+"available widget areas."
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:324
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:326
+msgid "Install WooCommerce"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:332
+msgid ""
+"WooCommerce is a free eCommerce plugin that allows you to sell anything, "
+"beautifully. Built to integrate seamlessly with WordPress, WooCommerce is "
+"the world’s favorite eCommerce solution that gives both store owners and "
+"developers complete control."
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:336
+msgid "WordPress Popular Posts"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:338
+msgid "Install WordPress Popular Posts"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:344
+msgid ""
+"WordPress Popular Posts is a highly customizable widget that displays the "
+"most popular posts on your blog. Lenscap supports this plugin in any of the "
+"available widget areas."
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:350
+#: inc/admin/updater/theme-updater-admin.php:355
+msgid "Where do I get support for Lenscap?"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:351
+#: inc/admin/updater/theme-updater-admin.php:369
+msgid "How do I update my theme?"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:352
+#: inc/admin/updater/theme-updater-admin.php:390
+msgid "Is WooCommerce required to use Lenscap?"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:359
+msgid ""
+"If you&apos;ve read through the Help File in the first tab and still have "
+"questions or are experiencing issues, we&apos;re happy to help! Simply <a "
+"href=\"%s\">visit your dashboard</a> on Array to open a support ticket."
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:364
+msgid ""
+"If you&apos;ve purchased your theme via ThemeForest, you will first have to "
+"create an account at Array to get a license key and access support. Visit "
+"the <a href=\"%s\" title=\"Create an account\">ThemeForest</a> page to "
+"validate your purchase code and create an account."
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:371
+msgid ""
+"Activating your theme license will enable in-dash theme updates, so you can "
+"get the latest version of your theme in a few clicks. This helps us keep "
+"your site happy and healthy."
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:373
+msgid "Follow these quick steps to retreive and activate your theme license."
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:378
+msgid ""
+"First we need the license. Visit the <a href=\"%s\">Licenses</a> page on "
+"your Array Dashboard. Copy the license associated with your theme."
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:381
+msgid ""
+"Paste the license in the license activation box on the right side of this "
+"page."
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:382
+msgid ""
+"Click the Save License button. The license will be saved and the page will "
+"be refreshed."
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:383
+msgid "Click the Activate License button to complete the activation."
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:386
+msgid ""
+"Now that your license is activated, you will see a notice to update your "
+"theme on the Themes page whenever an update is available. Click the Update "
+"Now link on your theme to update the theme to the latest version."
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:392
+msgid ""
+"Nope! Lenscap works beautifully as a powerful multimedia magazine theme. "
+"You only have to install WooCommerce if you intend on selling goods on your "
+"site."
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:405
+msgid ""
+"Join the Theme Club to download all the themes you see below and new "
+"releases for one year for <strong>only $89</strong>!"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:408
+#: inc/admin/updater/theme-updater-admin.php:486
+msgid "Learn about the Theme Club"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:422
+msgid ""
+"This theme feed seems to be temporarily down. Please check back later, or "
+"visit our <a href=\"%s\">Themes page on Array</a>."
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:433
+msgid "Sweet, your license is active!"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:439
+msgid "Activate your license to enable theme updates!"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:442
+msgid ""
+"With an active license, you can get seamless, one-click theme updates to "
+"keep your site healthy and happy."
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:448
+msgid ""
+"Find your license key in your <a target=\"_blank\" href=\"%s\">Array "
+"Dashboard</a>."
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:463
+#: inc/admin/updater/theme-updater.php:36
+msgid "Deactivate License"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:465
+msgid "Be sure to activate your license after saving it."
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:467
+#: inc/admin/updater/theme-updater.php:37
+msgid "Activate License"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:469
+#: inc/admin/updater/theme-updater.php:38
+msgid "Save License"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:479
+msgid "Join the Theme Club!"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:482
+msgid "Get an entire collection of beautiful, responsive themes for one low price."
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:484
+msgid ""
+"The Theme Club grants you access to our collection of pixel-perfect "
+"WordPress themes, new theme releases and speedy, expert support for one "
+"year &mdash; a massive value!"
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:22
+msgid "Lenscap WordPress Theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Array"
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:32
+msgid "Getting Started"
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:33
+msgid "Enter your theme license key."
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:34
+msgid "Enter your license key"
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:35
+msgid "License Action"
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:39
+#: inc/admin/updater/theme-updater.php:51
+msgid "License status is unknown."
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:40
+msgid "Renew?"
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:41
+msgid "unlimited"
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:42
+msgid ""
+"Theme updates have been enabled. You will receive a notice on your Themes "
+"page when a theme update is available."
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:43
+msgid "Your license for Lenscap expires %s."
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:44
+msgid "You have %1$s / %2$s sites activated."
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:45
+msgid "License key expired %s."
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:46
+msgid "License key has expired."
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:47
+msgid "License keys do not match."
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:48
+msgid "License is inactive."
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:49
+msgid "License key is disabled."
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:50
+msgid "Site is inactive."
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:52
+msgid ""
+"Updating this theme will lose any customizations you have made. 'Cancel' to "
+"stop, 'OK' to update."
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:53
+msgid ""
+"<strong>%1$s %2$s</strong> is available. <a href=\"%3$s\" "
+"class=\"thickbox\" title=\"%4s\">Check out what's new</a> or <a "
+"href=\"%5$s\"%6$s>update now</a>."
+msgstr ""
+
+#: inc/customizer.php:140
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer.php:153
+msgid "Accent Color"
+msgstr ""
+
+#: inc/customizer.php:156
+msgid "Change the accent color of buttons and various typographical elements."
+msgstr ""
+
+#: inc/customizer.php:171
+msgid "Index Post Style"
+msgstr ""
+
+#: inc/customizer.php:173
+msgid "Choose the layout for your post index, archive and search pages."
+msgstr ""
+
+#: inc/customizer.php:176
+msgid "Thumbnail & Excerpt"
+msgstr ""
+
+#: inc/customizer.php:177
+msgid "Full Post"
+msgstr ""
+
+#: inc/customizer.php:197
+msgid "Index Post Excerpt Length"
+msgstr ""
+
+#: inc/customizer.php:198
+msgid "Change the size of the excerpt on index and archive posts."
+msgstr ""
+
+#: inc/customizer.php:221
+msgid "Show the category browsing menu below your posts on the homepage."
+msgstr ""
+
+#: inc/customizer.php:225
+msgid "Enabled"
+msgstr ""
+
+#: inc/customizer.php:226
+msgid "Disabled"
+msgstr ""
+
+#: inc/customizer.php:241
+msgid "Footer Category Menu Title"
+msgstr ""
+
+#: inc/customizer.php:244
+msgid ""
+"Change the title of the Footer Category Menu section. Leave blank for no "
+"title."
+msgstr ""
+
+#: inc/customizer.php:260
+msgid "Footer Background Image"
+msgstr ""
+
+#: inc/customizer.php:281
+msgid "Footer Background Image Opacity"
+msgstr ""
+
+#: inc/customizer.php:282
+msgid "Adjust the opacity of the footer background image."
+msgstr ""
+
+#: inc/customizer.php:308
+msgid "Footer Background Image Blur"
+msgstr ""
+
+#: inc/customizer.php:309
+msgid "Adjust the blur effect on the footer background image."
+msgstr ""
+
+#: inc/customizer.php:330
+msgid "Footer Background Color"
+msgstr ""
+
+#: inc/customizer.php:333
+msgid "Change the background color of the footer area."
+msgstr ""
+
+#: inc/customizer.php:348
+msgid "Footer Tagline"
+msgstr ""
+
+#: inc/customizer.php:351
+msgid ""
+"Change the text that appears in the footer tagline at the bottom of your "
+"site."
+msgstr ""
+
+#: inc/customizer.php:370 woocommerce/customizer-woo.php:116
+msgid "Header Layout Style"
+msgstr ""
+
+#: inc/customizer.php:371 woocommerce/customizer-woo.php:117
+msgid "Choose between a full width or boxed header style."
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Full Width"
+msgstr ""
+
+#: inc/customizer.php:376 woocommerce/customizer-woo.php:122
+msgid "Boxed"
+msgstr ""
+
+#: inc/customizer.php:388
+msgid "Featured"
+msgstr ""
+
+#: inc/customizer.php:392
+msgid "Header Title"
+msgstr ""
+
+#: inc/customizer.php:395
+msgid "Add a title to your Featured Content section."
+msgstr ""
+
+#: inc/customizer.php:415 woocommerce/customizer-woo.php:141
+msgid "Header Text Position"
+msgstr ""
+
+#: inc/customizer.php:416 woocommerce/customizer-woo.php:142
+msgid "Choose between left and right positioned text in the header."
+msgstr ""
+
+#: inc/customizer.php:420 woocommerce/customizer-woo.php:146
+msgid "Left"
+msgstr ""
+
+#: inc/customizer.php:421 woocommerce/customizer-woo.php:147
+msgid "Right"
+msgstr ""
+
+#: inc/customizer.php:441 woocommerce/customizer-woo.php:167
+msgid "Header Excerpt Length"
+msgstr ""
+
+#: inc/customizer.php:442 woocommerce/customizer-woo.php:168
+msgid "Change the length of the post excerpt in the Featured Content header."
+msgstr ""
+
+#: inc/customizer.php:466 woocommerce/customizer-woo.php:192
+msgid "Header Background Image Opacity"
+msgstr ""
+
+#: inc/customizer.php:467 woocommerce/customizer-woo.php:193
+msgid "Adjust the opacity of the Featured Content header background image."
+msgstr ""
+
+#: inc/customizer.php:492 woocommerce/customizer-woo.php:218
+msgid "Header Background Image Blur"
+msgstr ""
+
+#: inc/customizer.php:493 woocommerce/customizer-woo.php:219
+msgid "Adjust the blur effect on the Featured Content header background image."
+msgstr ""
+
+#: inc/customizer.php:520 woocommerce/customizer-woo.php:246
+msgid "Header Accent Color"
+msgstr ""
+
+#: inc/customizer.php:525 woocommerce/customizer-woo.php:251
+msgid ""
+"Change the background color of the text area and carousel navigation in the "
+"Featured Content header."
+msgstr ""
+
+#: inc/customizer.php:547 woocommerce/customizer-woo.php:273
+msgid "Header Background Color"
+msgstr ""
+
+#: inc/customizer.php:550 woocommerce/customizer-woo.php:276
+msgid ""
+"Change the background color of the Featured Content header. Lower the "
+"Background Image Opacity setting to see the background color."
+msgstr ""
+
+#: inc/customizer.php:570 woocommerce/customizer-woo.php:296
+msgid "Header Height"
+msgstr ""
+
+#: inc/customizer.php:571 woocommerce/customizer-woo.php:297
+msgid "Adjust the height of the Featured Content header."
+msgstr ""
+
+#: inc/customizer.php:596
+msgid "Header Text Width"
+msgstr ""
+
+#: inc/customizer.php:597
+msgid "Adjust the width of the text area in the Featured Content header."
+msgstr ""
+
+#: inc/customizer.php:759
+msgid " %1$s Theme by %2$s."
+msgstr ""
+
+#: inc/jetpack.php:86
+msgid "Load more"
+msgstr ""
+
+#: inc/template-tags.php:69
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/template-tags.php:69
+msgid "(Edit)"
+msgstr ""
+
+#: inc/template-tags.php:80
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/template-tags.php:169
+msgid "&rarr;"
+msgstr ""
+
+#: inc/template-tags.php:170
+msgid "&larr;"
+msgstr ""
+
+#: inc/template-tags.php:193
+msgid "Next:"
+msgstr ""
+
+#: inc/template-tags.php:194
+msgid "Next post:"
+msgstr ""
+
+#: inc/template-tags.php:196
+msgid "Previous:"
+msgstr ""
+
+#: inc/template-tags.php:197
+msgid "Previous post:"
+msgstr ""
+
+#: inc/template-tags.php:216 template-parts/content-featured-item.php:81
+#: template-parts/content.php:41
+msgid "Posts by %s"
+msgstr ""
+
+#: inc/template-tags.php:221
+msgid "All posts by %s"
+msgstr ""
+
+#: inc/template-tags.php:223
+msgid "Posted by %s"
+msgstr ""
+
+#: inc/template-tags.php:231
+msgid ""
+"Complete your author profile info to be shown here. <a href=\"%1$s\">Edit "
+"your profile &rarr;</a>"
+msgstr ""
+
+#: inc/template-tags.php:243 templates/template-contributors.php:66
+msgid "All Posts"
+msgstr ""
+
+#: inc/testimonials/content-testimonials.php:24
+msgid "Edit"
+msgstr ""
+
+#: search.php:14
+msgid "Results for: %s"
+msgstr ""
+
+#: search.php:40
+msgid "Refine your search:"
+msgstr ""
+
+#: template-parts/content-featured-item-woo.php:97
+msgid "View all in: "
+msgstr ""
+
+#: template-parts/content-featured-item.php:89
+#: template-parts/content-index-media.php:93
+#: template-parts/content-index.php:58 template-parts/content.php:49
+msgid "on"
+msgstr ""
+
+#: template-parts/content-featured-item.php:90
+#: template-parts/content-index-media.php:94
+#: template-parts/content-index.php:59
+msgid "%s"
+msgstr ""
+
+#: template-parts/content-index-media.php:27
+msgid "View Gallery"
+msgstr ""
+
+#: template-parts/content-index-media.php:30
+msgid "View Video"
+msgstr ""
+
+#: template-parts/content-index-media.php:56
+msgid "Archive"
+msgstr ""
+
+#: template-parts/content-index-media.php:89
+#: template-parts/content-index.php:54
+msgid "By"
+msgstr ""
+
+#: template-parts/content-meta.php:15
+msgid "Category:"
+msgstr ""
+
+#: template-parts/content-meta.php:28
+msgid "Tag:"
+msgstr ""
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:23 template-parts/content.php:100
+#: templates/template-shop-homepage.php:32
+msgid "Pages:"
+msgstr ""
+
+#: woocommerce/customizer-woo.php:21
+msgid "None"
+msgstr ""
+
+#: woocommerce/customizer-woo.php:79
+msgid "WooCommerce Options"
+msgstr ""
+
+#: woocommerce/customizer-woo.php:94
+msgid "Featured WooCommerce Product Tag"
+msgstr ""
+
+#: woocommerce/customizer-woo.php:95
+msgid ""
+"Choose a tag to feature in the Featured Content header on the Shop Homepage "
+"template."
+msgstr ""
+
+#: woocommerce/woo-functions.php:21
+msgid "WooCommerce Shop Archive Sidebar"
+msgstr ""
+
+#: woocommerce/woo-functions.php:23
+msgid "Widgets added here will appear on the sidebar of WooCommerce shop page."
+msgstr ""
+
+#: woocommerce/woo-functions.php:31
+msgid "WooCommerce Single Product Sidebar"
+msgstr ""
+
+#: woocommerce/woo-functions.php:33
+msgid ""
+"Widgets added here will appear on the sidebar of WooCommerce single product "
+"pages."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Lenscap"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://arraythemes.com/themes/lenscap-wordpress-theme/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Lenscap makes it super easy to create a stunning WordPress-powered magazine "
+"and online store with slick content discovery features, gallery and video "
+"post styles, smart customization options and WooCommerce support."
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://arraythemes.com/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Contributors"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Shop Homepage"
+msgstr ""
+
+#: comments.php:32
+msgctxt "comments title"
+msgid "One Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:261
+#. Translators: If there are characters in your language that are not supported
+#. by Archivo Narrow, translate this to 'off'. Do not translate into your own
+#. language.
+msgctxt "Archivo Narrow font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:267
+#. Translators: If there are characters in your language that are not supported
+#. by Roboto, translate this to 'off'. Do not translate into your own language.
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr ""
